@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:2:1-35:12
+ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:2:1-35:12
 	package
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:3:5-42
-		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml
-		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml
-		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml
-		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml
 application
-ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:5:5-33:19
+ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:5:5-33:19
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /afs/ualberta.ca/home/q/i/qikai/.android/build-cache/58573b71795fddded4fbf088914a69e0dd57048b/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /afs/ualberta.ca/home/q/i/qikai/.android/build-cache/7f0bcece219eaa24412be6cb731f4b68f8c96421/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /afs/ualberta.ca/home/q/i/qikai/.android/build-cache/f5d7e4fda24c58bbf260156b770a27ba98507f2b/output/AndroidManifest.xml:29:5-20
@@ -26,51 +26,51 @@ MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /afs/ual
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] /afs/ualberta.ca/home/q/i/qikai/.android/build-cache/0f5fe59c07d8c213d543026abbb054181437be73/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /afs/ualberta.ca/home/q/i/qikai/.android/build-cache/573ea269990ea3a2a9d384bdb7ae6f1b128b920a/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:8:9-40
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:8:9-40
 	android:supportsRtl
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.example.qikai_countbook.DisplayCounters
-ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:12:19-50
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:12:19-50
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:16:27-74
 activity#com.example.qikai_countbook.CreateNewCounter
-ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:19:9-25:20
+ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:19:9-25:20
 	android:parentActivityName
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:21:13-58
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:21:13-58
 	android:name
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:20:13-45
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:20:13-45
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:22:13-24:52
+ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:22:13-24:52
 	android:value
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:24:17-49
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:24:17-49
 	android:name
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:23:17-63
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:23:17-63
 activity#com.example.qikai_countbook.EditSelectedCounter
-ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:26:9-32:20
+ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:26:9-32:20
 	android:parentActivityName
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:28:13-58
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:28:13-58
 	android:name
-		ADDED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml:27:13-48
+		ADDED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml:27:13-48
 uses-sdk
-INJECTED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /afs/ualberta.ca/home/q/i/qikai/.android/build-cache/58573b71795fddded4fbf088914a69e0dd57048b/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /afs/ualberta.ca/home/q/i/qikai/.android/build-cache/7f0bcece219eaa24412be6cb731f4b68f8c96421/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /afs/ualberta.ca/home/q/i/qikai/.android/build-cache/f5d7e4fda24c58bbf260156b770a27ba98507f2b/output/AndroidManifest.xml:21:5-23:63
@@ -84,11 +84,11 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /afs/ualber
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /afs/ualberta.ca/home/q/i/qikai/.android/build-cache/58573b71795fddded4fbf088914a69e0dd57048b/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml
-		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml
-		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml
+		INJECTED from /afs/ualberta.ca/home/q/i/qikai/Documents/qikai-CountBook/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /afs/ualberta.ca/home/q/i/qikai/.android/build-cache/58573b71795fddded4fbf088914a69e0dd57048b/output/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /afs/ualberta.ca/home/q/i/qikai/.android/build-cache/7f0bcece219eaa24412be6cb731f4b68f8c96421/output/AndroidManifest.xml:25:5-27:41
