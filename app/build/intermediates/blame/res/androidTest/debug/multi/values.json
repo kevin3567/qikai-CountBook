@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/afs/ualberta.ca/home/q/i/qikai/.android/build-cache/1a81e9f56ffa4d2408a03043211d2bbf0848c1fe/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

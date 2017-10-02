@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/afs/ualberta.ca/home/q/i/qikai/.android/build-cache/58573b71795fddded4fbf088914a69e0dd57048b/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/afs/ualberta.ca/home/q/i/qikai/.android/build-cache/58573b71795fddded4fbf088914a69e0dd57048b/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/afs/ualberta.ca/home/q/i/qikai/.android/build-cache/58573b71795fddded4fbf088914a69e0dd57048b/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/afs/ualberta.ca/home/q/i/qikai/.android/build-cache/58573b71795fddded4fbf088914a69e0dd57048b/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

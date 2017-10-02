@@ -1,0 +1,7 @@
+#Mon Oct 02 11:09:24 MDT 2017
+base.0=/afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_42ebb0e567a31514fa5e0dd5cc0b8e1f4b3b2ec9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ba311b32ac40c00a54249ed7443d226f7a9dfb81/classes.dex
+base.1=/afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ba311b32ac40c00a54249ed7443d226f7a9dfb81
+file.0=/afs/ualberta.ca/home/q/i/qikai/Desktop/qikai-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_42ebb0e567a31514fa5e0dd5cc0b8e1f4b3b2ec9/classes.dex
